@@ -13,7 +13,6 @@
 
 ## Kullanılan Teknolojiler
 - **HTML/CSS**: Web sitesinin temel yapısı ve stilini oluşturmak için.
-- **Bootstrap**: Responsive ve modern bir kullanıcı arayüzü sağlamak için.
 - **JavaScript**: Dinamik özellikler ve etkileşimler eklemek için.
 - **Git/GitHub**: Versiyon kontrolü ve proje barındırma amacıyla.
 
