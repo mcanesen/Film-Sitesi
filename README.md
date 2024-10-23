@@ -22,4 +22,3 @@
 ![Uploading EkranKayd2024-10-2322.19.36-ezgif.com-video-to-gif-converter.gif…]()
 
 
-*Projenin canlı önizlemesini yukarıdaki gif'te görebilirsiniz.*
